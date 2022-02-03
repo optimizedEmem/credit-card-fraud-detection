@@ -7,24 +7,24 @@ Nature: Highly imbalanced <br/>
 Number of obersavtions: 284,807 non-fraudulent transactions and 492 fraudulent transactions 
 
 ## Data preparation
-EDA  Null values analysis
-Descriptive statistics
-Correlation plots
-Feature engineering
+EDA  Null values analysis <br/>
+Descriptive statistics <br/>
+Correlation plots <br/>
+Feature engineering 
 
 ## Sampling methods
-Undersampling
-Oversampling - SMOTE
+Undersampling <br/>
+Oversampling - SMOTE 
 
 ## Models experiemented
-Logistic Regression
-SVM
-KNN
-Random Forest
-XGBoost
-Neural Network
+Logistic Regression <br/>
+SVM <br/>
+KNN <br/>
+Random Forest <br/>
+XGBoost <br/>
+Neural Network 
 
 ## Evaluation metrics
-Precision
-Recall
-F1 score
+Precision <br/>
+Recall <br/>
+F1 score 
