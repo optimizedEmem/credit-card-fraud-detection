@@ -3,12 +3,11 @@
 The aim of this project is to build a machine learning model that will correctly distinguish between fraudulent and non-fradulent transactions using a large dataset.
 
 ## Dataset: 
-Nature: Highly imbalanced <br>
+Nature: Highly imbalanced <br/>
 Number of obersavtions: 284,807 non-fraudulent transactions and 492 fraudulent transactions 
 
 ## Data preparation
-EDA
-Null values analysis
+EDA  Null values analysis
 Descriptive statistics
 Correlation plots
 Feature engineering
